@@ -2,7 +2,7 @@
 """
 Created on Tue Mar  3 21:57:50 2020
 
-@author: Paco
+@author: Powermates
 """
 
 import numpy as np
